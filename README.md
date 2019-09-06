@@ -1,5 +1,4 @@
 # RunBooRun
-(My first ever live unity 3-D project).
 
 Run Boo Run is an endless runner i would create. Here in the Players would have to control a ghost
 named BOO so as to prevent it from the Sacred Crushers that are tossed toward Boo.
