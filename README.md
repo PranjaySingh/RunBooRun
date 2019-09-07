@@ -10,13 +10,12 @@ This is the story of pitiful little Boo who is escaping these sacred spelled cru
 ## Game Images
 
 ![Gameplay](https://github.com/PranjaySingh/RunBooRun/blob/master/Images/Screenshot%202019-09-06%20at%201.23.10%20PM.png)
-![Gameplay](https://raw.githubusercontent.com/PranjaySingh/RunBooRun/blob/master/Images/Screenshot%202019-09-06%20at%201.23.10%20PM.png]
 
 ![UI](https://github.com/PranjaySingh/RunBooRun/blob/master/Images/Screenshot%202019-09-06%20at%201.26.36%20PM.png)
 
 ## GamePlay Video
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=https://youtu.be/zTAtChoNkUE
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=https://www.youtube.com/watch?v=zTAtChoNkUE
 " target="_blank"><img src="http://img.youtube.com/vi/zTAtChoNkUE/0.jpg" 
 alt="GamePlay Video" width="240" height="180" border="10" /></a>
 
