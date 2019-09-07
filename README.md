@@ -9,7 +9,7 @@ This is the story of pitiful little Boo who is escaping these sacred spelled cru
 
 ## Game Images
 
-<p><img src="https://github.com/PranjaySingh/RunBooRun/blob/master/Images/Screenshot%202019-09-06%20at%201.23.10%20PM.png" alt="GamePlay" align="middle" height="auto" width="80%"></p>
+<p><img src="https://github.com/PranjaySingh/RunBooRun/blob/master/Images/Screenshot%202019-09-06%20at%201.23.10%20PM.png" alt="GamePlay" height="auto" width="80%" align="middle"></p>
 
 <img src="https://github.com/PranjaySingh/RunBooRun/blob/master/Images/Screenshot%202019-09-06%20at%201.26.36%20PM.png" alt="UI" height="auto" width="80%">
 
