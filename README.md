@@ -11,7 +11,7 @@ This is the story of pitiful little Boo who is escaping these sacred spelled cru
 
 ![Gameplay](https://github.com/PranjaySingh/RunBooRun/blob/master/Images/Screenshot%202019-09-06%20at%201.23.10%20PM.png)
 
-<img src="https://github.com/PranjaySingh/RunBooRun/blob/master/Images/Screenshot%202019-09-06%20at%201.23.10%20PM.png" alt="GamePlay" height="42" width="42">
+<img src="https://github.com/PranjaySingh/RunBooRun/blob/master/Images/Screenshot%202019-09-06%20at%201.23.10%20PM.png" alt="GamePlay" height="auto" width="75%">
 
 
 ![UI](https://github.com/PranjaySingh/RunBooRun/blob/master/Images/Screenshot%202019-09-06%20at%201.26.36%20PM.png)
