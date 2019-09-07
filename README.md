@@ -15,7 +15,7 @@ This is the story of pitiful little Boo who is escaping these sacred spelled cru
 
 ## GamePlay Video
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=https://www.youtube.com/watch?v=zTAtChoNkUE
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=zTAtChoNkUE
 " target="_blank"><img src="http://img.youtube.com/vi/zTAtChoNkUE/0.jpg" 
 alt="GamePlay Video" width="240" height="180" border="10" /></a>
 
